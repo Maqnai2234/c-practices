@@ -1,9 +1,7 @@
 #include <iostream>
 
 int main(){
-    int number1 = 0;
-    int number2 = 0;
-    int sum = 0;
+    int number1 = 0, number2 = 0, sum = 0;
 
     std::cout<< "Enter first Integer: ";
     std::cin >> number1;
